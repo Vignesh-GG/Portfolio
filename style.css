@@ -1,5 +1,6 @@
 *{
     font-family: 'poppins';
+    scroll-behavior: smooth;
   }
   .text1{
     font-family: "poppins";
@@ -124,8 +125,8 @@
     }
     .clr_3{
       color: white;
-      height: 600px;
-/*        display: flex;
+      /*height: 600px;
+        display: flex;
       justify-self: center;
       align-items: center;*/
       padding-bottom: 10px;
